@@ -61,7 +61,7 @@ Make sure you have Node.js installed on your system along with Expo Go app on yo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Imtiaz-Ali17314/Learning-React-Native.git
+   git clone https://github.com/imtiazaly/Learning-React-Native.git
    cd Learning-React-Native
    ```
 
